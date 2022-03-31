@@ -1,4 +1,1 @@
 type pocket_judge_sysfs, fs_type, sysfs_type;
-
-# Define updater_ota_file type
-type updater_ota_file, file_type, data_file_type, core_data_file_type, mlstrustedobject;

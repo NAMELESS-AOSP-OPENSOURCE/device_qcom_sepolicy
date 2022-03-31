@@ -1,4 +1,2 @@
 user=_app isPrivApp=true seinfo=platform name=org.lineageos.snap domain=snap_app type=app_data_file levelFrom=user
-
-# Define security context for our updater app
-user=system seinfo=platform name=org.nameless.updates isPrivApp=true domain=updater_app type=system_app_data_file levelFrom=user
+user=_app isPrivApp=true seinfo=platform name=org.nameless.updates domain=updater_app type=app_data_file levelFrom=user
